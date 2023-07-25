@@ -15,9 +15,9 @@
 - https://gs1-eu1-pd-epcisworkbench-app.azurewebsites.net/ui/home
 - https://openepcis.io/docs/
 
-## Sample Data:
+## Documents:
 
-- _
+- https://ref.gs1.org/standards/epcis/artefacts
 
 ## Events
 
