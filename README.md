@@ -1,5 +1,10 @@
 # EPCIS-links
 
+## General Information:
+
+- https://www.gs1.org/standards/epcis
+- https://traceability-dialogue.org (on GDST)
+
 ## Certified Software:
 
 - https://traceability-dialogue.org/gdst-capability-test/
