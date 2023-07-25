@@ -2,7 +2,8 @@
 
 ## Certified Software:
 
-- _
+- https://traceability-dialogue.org/gdst-capability-test/
+- https://traceability-dialogue.org/gdst-capability-test/gdst-capable-solutions/
 
 ## Tools:
 
