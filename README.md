@@ -18,6 +18,7 @@
 ## Documents:
 
 - https://ref.gs1.org/standards/epcis/artefacts
+- https://traceability-dialogue.org/gdst-standards-and-materials/
 
 ## Events
 
