@@ -17,7 +17,7 @@
 
 ## Tools:
 
-- https://gs1-eu1-pd-epcisworkbench-app.azurewebsites.net/ui/home
+- https://epcisworkbench.gs1.org/ui/home
 - https://openepcis.io/docs/
 
 ## Documents:
