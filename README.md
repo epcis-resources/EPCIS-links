@@ -5,6 +5,7 @@
 - https://www.gs1.org/standards/epcis
 - https://traceability-dialogue.org (on GDST)
 - https://ref.gs1.org/standards/epcis/
+- https://ref.gs1.org/standards/epcis/artefacts
 - https://ref.gs1.org/standards/cbv/
 - https://ref.gs1.org/standards/digital-link/
 - https://ref.gs1.org/standards/digital-link/uri-syntax/
